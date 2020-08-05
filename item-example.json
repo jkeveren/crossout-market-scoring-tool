@@ -1,0 +1,47 @@
+{
+	"id":1
+	"name":"Thunderbolt"
+	"localizedName":"Thunderbolt"
+	"availableName":"Thunderbolt"
+	"description":null
+	"sellOffers":58
+	"sellPrice":25500.0
+	"buyOrders":29
+	"buyPrice":22301.0
+	"meta":0
+	"removed":0
+	"craftable":1
+	"popularity":36
+	"workbenchRarity":0
+	"craftingSellSum":38152.0
+	"craftingBuySum":34657.0
+	"amount":1
+	"demandSupplyRatio":0.5
+	"margin":649.0
+	"roi":0.029101833998475404690372629
+	"craftingMargin":-11707.0
+	"formatDemandSupplyRatio":"50.00"
+	"formatMargin":"6.49"
+	"formatRoi":"2.91"
+	"formatCraftingMargin":"-117.07"
+	"craftVsBuy":"Buy"
+	"timestamp":"2020-07-04T20:50:29"
+	"lastUpdateTime":"2020-07-04 20:50:29"
+	"rarityId":3
+	"rarityName":"Epic"
+	"categoryId":2
+	"categoryName":"Weapons"
+	"typeId":26
+	"recipeId":67
+	"typeName":"Shotgun"
+	"factionNumber":2
+	"faction":"Lunatics"
+	"formatBuyPrice":"223.01"
+	"formatSellPrice":"255.00"
+	"formatCraftingSellSum":"381.52"
+	"formatCraftingBuySum":"346.57"
+	"craftingResultAmount":1
+	"image":"1.png"
+	"imagePath":"/img/items/1.png"
+	"sortedStats":null
+}
